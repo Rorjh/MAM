@@ -1,0 +1,2 @@
+# MAM
+Metody analityczne modelowania
